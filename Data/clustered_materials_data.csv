@@ -1,0 +1,16 @@
+material,frequency,size,cluster
+M1,3,5,Fragile-high value
+M2,1,6,Bulky slow movers
+M3,2,3,High and medium moving small parts
+M4,3,4,Oil Filled
+M5,2,2,Affinity groups
+M6,2,7,Seasonal group (Nov-Jan)
+M7,1,6,Hazardous
+M8,3,5,High and medium moving small parts
+M9,3,2,Fragile-others
+M10,1,8,Bulk consumables
+M11,2,4,other small parts
+M12,2,3,other slow movers
+M13,3,6,medium movers
+M14,1,5,misclanious
+M15,2,4,Heavy duty
